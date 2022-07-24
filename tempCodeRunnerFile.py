@@ -1,2 +1,2 @@
-vname = "name"
-print(len(vname))
+vname = "sarah"
+print((vname))
