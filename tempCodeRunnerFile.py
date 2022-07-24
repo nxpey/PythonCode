@@ -1,2 +1,2 @@
-
-    print(len(vname))
+vname = "name"
+print(len(vname))
